@@ -1,4 +1,4 @@
-# Git education. Commits 
+# Domashka 2
 
 * *git init* - kqfk
 
